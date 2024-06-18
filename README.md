@@ -1,0 +1,2 @@
+# jscodeforconsole
+f12
