@@ -1,2 +1,2 @@
 # jscodeforconsole
-f12
+f12 or javascript:<code>
