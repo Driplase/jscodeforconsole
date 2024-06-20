@@ -1,0 +1,1 @@
+let sx=0;let sy=0;addEventListener("mousemove",(event)=>{sx+=event.movementX/32;sy+=event.movementY/32;});let b=document.body;setInterval(()=>{b.style.transform=`translate(${sx}px, ${sy}px)`;sx*=.97;sy*=.97;},20);
